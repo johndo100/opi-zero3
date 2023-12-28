@@ -6,7 +6,7 @@ You can find other resources [here](https://file.pico.io.vn/single-board-compute
 
 ## Contents
 
-- [OS Images](#OS Images)
+- [OS Images](#os-images)
 - Tools
 - Projects
 - Resources
