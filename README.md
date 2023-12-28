@@ -2,6 +2,8 @@
 
 This list is a collection of tools, projects, images and resources.
 
+You can find other resources [here](https://file.pico.io.vn/single-board-computer/opi-zero3). I'm hosting it at home.
+
 ## Contents
 
 - OS Images
