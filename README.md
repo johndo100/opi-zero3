@@ -9,7 +9,7 @@ Vietnamese only: hỗ trợ bằng Tiếng Việt từ xa hoặc tận nơi ở 
 ## Contents
 
 - [OS Images](#os-images)
-- Tools
+- [Tools](#tools)
 - Projects
 - Resources
 
@@ -33,6 +33,11 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 - [Raspberry Pi OS](https://github.com/leeboby/raspberry-pi-os-images) - A free operating system based on Debian, optimised for the Raspberry Pi hardware.
 
 ## Tools
+
+- [Buildroot](https://buildroot.org) - A tool to generate embedded Linux systems through cross-compilation.
+- [The Linux kernel](https://www.kernel.org) - A monolithic, modular, multitasking, Unix-like operating system kernel.
+- [u-boot](https://source.denx.de/u-boot/u-boot) - A boot loader for Embedded boards.
+- [Yocto Project](https://www.yoctoproject.org) - Create custom Linux-based systems regardless of the hardware architecture.
 
 ## Projects
 
