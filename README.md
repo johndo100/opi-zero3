@@ -13,6 +13,8 @@ You can find other resources [here](https://file.pico.io.vn/single-board-compute
 
 ## OS Images
 
+For more information you can go [here](https://pico.io.vn/2023/12/27/operating-systems-you-can-run-on-orange-pi-zero-3).
+
 - [Android](https://drive.google.com/drive/folders/1s3q8Hj07efRS7fXnPivseXK63V_y_EjM?usp=shar) - The platform changing what mobile can do.
 - [Armbian](https://github.com/leeboby/armbian-images) - Linux for ARM development boards.
 - [Debian](https://drive.google.com/drive/folders/1g2o209HE9_28v7wIXdq0tf5jOTTJdpVb?usp=shar) - A complete Free Operating System.
