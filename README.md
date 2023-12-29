@@ -60,3 +60,4 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 - [Orange Pi Linux Kernel](https://github.com/orangepi-xunlong/linux-orangepi)
 - [Orange Pi U-Boot](https://github.com/orangepi-xunlong/u-boot-orangepi)
 - [Orange Pi Firmware](https://github.com/orangepi-xunlong/firmware)
+- [u-boot-sunxi-with-spl.bin](u-boot/u-boot-sunxi-with-spl.bin)
