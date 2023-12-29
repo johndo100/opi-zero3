@@ -10,6 +10,7 @@ Vietnamese only: hỗ trợ bằng Tiếng Việt từ xa hoặc tận nơi ở 
 
 - [OS Images](#os-images)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 - [Resources](#resources)
 
 ## OS Images
@@ -40,21 +41,21 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 ## Tools
 
 - [Buildroot](https://buildroot.org) - A tool to generate embedded Linux systems through cross-compilation.
-- [The Linux kernel](https://www.kernel.org) - A monolithic, modular, multitasking, Unix-like operating system kernel.
-- [u-boot](https://source.denx.de/u-boot/u-boot) - A boot loader for Embedded boards.
 - [Yocto Project](https://www.yoctoproject.org) - Create custom Linux-based systems regardless of the hardware architecture.
-
-## Resources
-
-- [Orange Pi Linux Source](https://github.com/orangepi-xunlong/linux-orangepi)
-- [Orange Pi U-Boot](https://github.com/orangepi-xunlong/u-boot-orangepi)
-- [Orange Pi Firmware](https://github.com/orangepi-xunlong/firmware)
 - [Orange Pi wiringPi](https://github.com/orangepi-xunlong/wiringOP)
 - [Orange Pi wiringOP for Python](https://github.com/orangepi-xunlong/wiringOP-Python)
+
+### Tutorials
+
 - [Sunxi Manual build howto](https://linux-sunxi.org/Manual_build_howto)
 - [Sunxi Mainline Kernel Howto](https://linux-sunxi.org/Mainline_Kernel_Howto)
 - [Sunxi U-Boot](https://linux-sunxi.org/U-Boot)
 - [Sunxi Bootable SD card](https://linux-sunxi.org/Bootable_SD_card)
 
+## Resources
 
-
+- [The Linux kernel](https://www.kernel.org) - A monolithic, modular, multitasking, Unix-like operating system kernel.
+- [u-boot](https://source.denx.de/u-boot/u-boot) - A boot loader for Embedded boards.
+- [Orange Pi Linux Kernel](https://github.com/orangepi-xunlong/linux-orangepi)
+- [Orange Pi U-Boot](https://github.com/orangepi-xunlong/u-boot-orangepi)
+- [Orange Pi Firmware](https://github.com/orangepi-xunlong/firmware)
