@@ -44,6 +44,7 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 - [Yocto Project](https://www.yoctoproject.org) - Create custom Linux-based systems regardless of the hardware architecture.
 - [Orange Pi wiringPi](https://github.com/orangepi-xunlong/wiringOP)
 - [Orange Pi wiringOP for Python](https://github.com/orangepi-xunlong/wiringOP-Python)
+- [PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 
 ### Tutorials
 
