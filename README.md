@@ -33,8 +33,9 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 
 ### 3rdparty
 
-- [Armbian](https://github.com/leeboby/armbian-images) - images and u-boot only.
-- [Armbian](https://github.com/viraniac/armbian_build) - armbian_build (WIP).
+- [Armbian](https://www.armbian.com)
+    - [armbian-images](https://github.com/leeboby/armbian-images) - images and u-boot only.
+    - [armbian_build](https://github.com/viraniac/armbian_build) - Armbian Linux Build Framework (WIP).
 - [Fedora](https://github.com/lalakii/fedora_39_minimal_orangepizero3) - A Linux distribution developed by the Fedora Project.
 - [Kali Linux](https://github.com/leeboby/kali-images) - An Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.
 - [Raspberry Pi OS](https://github.com/leeboby/raspberry-pi-os-images) - A free operating system based on Debian, optimised for the Raspberry Pi hardware.
