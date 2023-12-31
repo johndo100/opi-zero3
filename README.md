@@ -27,15 +27,17 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 
 ### madebyme
 
-- [Void](/void) - An independent Linux distribution that uses the XBPS package manager, and the runit init system.
+- [Void](void) - An independent Linux distribution that uses the XBPS package manager, and the runit init system.
 
-![Void Linux on Orange Pi Zero 3 screenshot](/void/void_linux_on_opi_zero3_231228.png)
+![Void Linux on Orange Pi Zero 3 screenshot](void/void_linux_on_opi_zero3_231228.png)
 
 ### 3rdparty
 
 - [Armbian](https://www.armbian.com)
     - [armbian-images](https://github.com/leeboby/armbian-images) - images and u-boot only.
     - [armbian_build](https://github.com/viraniac/armbian_build) - Armbian Linux Build Framework (WIP).
+- [DietPi](https://dietpi.com) - Highly optimised minimal Debian OS (WIP).
+    - [testing](https://dietpi.com/downloads/images/testing) - Testing (WIP) Ethernet is not working after reboot.
 - [Fedora](https://github.com/lalakii/fedora_39_minimal_orangepizero3) - A Linux distribution developed by the Fedora Project.
 - [Kali Linux](https://github.com/leeboby/kali-images) - An Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.
 - [Raspberry Pi OS](https://github.com/leeboby/raspberry-pi-os-images) - A free operating system based on Debian, optimised for the Raspberry Pi hardware.
@@ -62,4 +64,4 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 - [Orange Pi Linux Kernel](https://github.com/orangepi-xunlong/linux-orangepi)
 - [Orange Pi U-Boot](https://github.com/orangepi-xunlong/u-boot-orangepi)
 - [Orange Pi Firmware](https://github.com/orangepi-xunlong/firmware)
-- [u-boot-sunxi-with-spl.bin](u-boot/u-boot-sunxi-with-spl.bin)
+- [u-boot-sunxi-with-spl.bin](u-boot)
