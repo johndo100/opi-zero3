@@ -34,8 +34,8 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
 ### 3rdparty
 
 - [Armbian](https://www.armbian.com)
+    - [armbian_build](https://github.com/armbian/build) - Armbian Linux Build Framework (WIP).
     - [armbian-images](https://github.com/leeboby/armbian-images) - images and u-boot only.
-    - [armbian_build](https://github.com/viraniac/armbian_build) - Armbian Linux Build Framework (WIP).
 - [DietPi](https://dietpi.com) - Highly optimised minimal Debian OS (WIP).
     - [testing](https://dietpi.com/downloads/images/testing) - Testing (WIP) Ethernet is not working after reboot.
 - [Fedora](https://github.com/lalakii/fedora_39_minimal_orangepizero3) - A Linux distribution developed by the Fedora Project.
