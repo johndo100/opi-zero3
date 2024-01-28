@@ -37,7 +37,7 @@ For more information you can go [here](https://pico.io.vn/2023/12/27/operating-s
     - [armbian_build](https://github.com/armbian/build) - Armbian Linux Build Framework (WIP).
     - [armbian-images](https://github.com/leeboby/armbian-images) - images and u-boot only.
 - [DietPi](https://dietpi.com) - Highly optimised minimal Debian OS (WIP).
-    - [testing](https://dietpi.com/downloads/images/testing) - Testing (WIP) Ethernet is not working after reboot.
+    - [testing](https://dietpi.com/downloads/images/testing) - Testing (WIP).
 - [Fedora](https://github.com/lalakii/fedora_39_minimal_orangepizero3) - A Linux distribution developed by the Fedora Project.
 - [Kali Linux](https://github.com/leeboby/kali-images) - An Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.
 - [Raspberry Pi OS](https://github.com/leeboby/raspberry-pi-os-images) - A free operating system based on Debian, optimised for the Raspberry Pi hardware.
