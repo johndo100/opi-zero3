@@ -13,7 +13,7 @@ Vietnamese only: hỗ trợ bằng Tiếng Việt từ xa hoặc tận nơi ở 
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Resources](#resources)
-- [Things can do](#things)
+- [Things can do](#things-can-do)
 
 ## Specification
 
