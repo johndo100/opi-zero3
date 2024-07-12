@@ -64,6 +64,7 @@ You can check on The Official Website [here](http://www.orangepi.org/html/hardWa
 
 - [Armbian](https://www.armbian.com/orange-pi-zero-3) - Linux for ARM development boards (Ubuntu / Debian base).
 - [DietPi](https://dietpi.com/downloads/images/DietPi_OrangePiZero3-ARMv8-Bookworm.img.xz) - Highly optimised minimal Debian OS.
+- [sd-card-images](https://sd-card-images.johang.se/boards/orange_pi_zero3.html) - Minimal, pure and up-to-date vanilla Debian/Ubuntu.
 
 ## Tools
 
