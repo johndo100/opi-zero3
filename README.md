@@ -52,7 +52,7 @@ You can check on The Official Website [here](http://www.orangepi.org/html/hardWa
 
 > Remark: Android image can only burn by PhoenixCard, and for Windows only, there is [OpenixCard](https://github.com/YuzukiTsuru/OpenixCard) for Linux but I'm not sure.
 
-![Burn Android image by PhoenixCard Orange Pi Zero 3](screenshots/images/san-juan-mountains.jpg "PhoenixCard OPi Zero3")
+![Burn Android image by PhoenixCard Orange Pi Zero 3](screenshots/opi-zero3-android-burn-phoenixcard.jpg "PhoenixCard OPi Zero3")
 
 ### madebyme
 
