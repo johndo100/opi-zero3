@@ -56,7 +56,7 @@ You can check on The Official Website [here](http://www.orangepi.org/html/hardWa
 
 ### madebyme
 
-- [Void]() - no longer availabe because I think Debian / Ubuntu is good enough.
+- [Void](#) - no longer availabe because I think Debian / Ubuntu is good enough.
 
 ![Void Linux on Orange Pi Zero 3 screenshot](screenshots/void_linux_on_opi_zero3_231228.png "Void Linux Opi Zero3")
 
