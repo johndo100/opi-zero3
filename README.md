@@ -50,11 +50,15 @@ You can check on The Official Website [here](http://www.orangepi.org/html/hardWa
 - [OpenWrt](https://drive.google.com/drive/folders/1IKYEIGmJ-5js7SpndM-pEd7xOs5_e5CA?usp=sharing) - A Linux operating system targeting embedded devices.
 - [Ubuntu](https://drive.google.com/drive/folders/1aLTaOlIMdHhwk3oeZY2YPdB9T8U-EAKA?usp=shar) - The modern, open source operating system on Linux for the enterprise server, desktop, cloud, and IoT.
 
+! Remark: Android image can only burn by PhoenixCard, and for Windows only, there is [OpenixCard](https://github.com/YuzukiTsuru/OpenixCard) for Linux but I'm not sure.
+
+![Burn Android image by PhoenixCard Orange Pi Zero 3](screenshots/images/san-juan-mountains.jpg "PhoenixCard OPi Zero3")
+
 ### madebyme
 
 - [Void]() - no longer availabe because I think Debian / Ubuntu is good enough.
 
-![Void Linux on Orange Pi Zero 3 screenshot](void/void_linux_on_opi_zero3_231228.png)
+![Void Linux on Orange Pi Zero 3 screenshot](screenshots/void_linux_on_opi_zero3_231228.png "Void Linux Opi Zero3")
 
 ### 3rdparty
 
@@ -69,7 +73,7 @@ You can check on The Official Website [here](http://www.orangepi.org/html/hardWa
 - [Orange Pi wiringOP for Python](https://github.com/orangepi-xunlong/wiringOP-Python)
 - [PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
 
-### Tutorials
+## Tutorials
 
 - [Sunxi Manual build howto](https://linux-sunxi.org/Manual_build_howto)
 - [Sunxi Mainline Kernel Howto](https://linux-sunxi.org/Mainline_Kernel_Howto)
@@ -93,6 +97,6 @@ There are many programs can run on ARM64, they made docker images for arm64 too.
 
 Just look for name of the executable file, it may contain: arm64, armv8, aarch64.
 
-In my experience, Orange Pi Zero3 can run many programs just like Raspberry Pi 3 which has same CPU implementing. You may expect some features don't fully work (e.g GPIO) because Orange Pi support simply not same level as Raspberry.
+In my experience, Orange Pi Zero3 can run many programs just like Raspberry Pi 3 which has same CPU implementing. You may expect some features don't fully work (e.g GPIO) because Orange Pi support is simply not the same level as Raspberry.
 
 After all, I definitely recommend this board. It worth the money.
