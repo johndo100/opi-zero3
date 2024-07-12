@@ -50,7 +50,7 @@ You can check on The Official Website [here](http://www.orangepi.org/html/hardWa
 - [OpenWrt](https://drive.google.com/drive/folders/1IKYEIGmJ-5js7SpndM-pEd7xOs5_e5CA?usp=sharing) - A Linux operating system targeting embedded devices.
 - [Ubuntu](https://drive.google.com/drive/folders/1aLTaOlIMdHhwk3oeZY2YPdB9T8U-EAKA?usp=shar) - The modern, open source operating system on Linux for the enterprise server, desktop, cloud, and IoT.
 
-! Remark: Android image can only burn by PhoenixCard, and for Windows only, there is [OpenixCard](https://github.com/YuzukiTsuru/OpenixCard) for Linux but I'm not sure.
+> Remark: Android image can only burn by PhoenixCard, and for Windows only, there is [OpenixCard](https://github.com/YuzukiTsuru/OpenixCard) for Linux but I'm not sure.
 
 ![Burn Android image by PhoenixCard Orange Pi Zero 3](screenshots/images/san-juan-mountains.jpg "PhoenixCard OPi Zero3")
 
